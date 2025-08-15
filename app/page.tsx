@@ -38,7 +38,7 @@ const leaders: Leader[] = [
       "GVMP Kazoku Rang 10 (2025 als Dion Kubicki-Weiss)",
     ],
     description:
-      "Vielseitiger Leader mit Erfahrung in staatlichen und illegalen Organisationen auf RoleplayServern.",
+      "Vielseitiger Leader mit Erfahrung in staatlichen und illegalen Fraktionen auf Roleplay Servern.",
   },
   {
     name: "John Forces",
@@ -55,7 +55,7 @@ const leaders: Leader[] = [
       "GVMP Los Muertos Rang 9 (2025 als John Forces)",
     ],
     description:
-      "Langjährige Führungserfahrung in verschiedenen Organisationen mit starkem Fokus auf Polizeiarbeit.",
+      "Langjährige Führungserfahrung in verschiedenen Fraktionen mit starkem Fokus auf Polizeiarbeit.",
   },
   {
     name: "Lukas Velasquez",
@@ -67,7 +67,7 @@ const leaders: Leader[] = [
       "GVMP Kazoku Rang 12 (2025 als Lukas Velasquez-Loewe)",
     ],
     description:
-      "Erfahrener Leader mit militärischer Führungserfahrung und höchsten Rängen in verschiedenen Organisationen.",
+      "Erfahrener Leader mit staatlicher Führungserfahrung und höheren Rängen in verschiedenen Fraktionen.",
   },
   {
     name: "Jannik Samarita",
