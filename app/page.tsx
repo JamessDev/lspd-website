@@ -663,7 +663,7 @@ export default function LSPDWebsite() {
                   Schutz und Dienst für die Gemeinschaft
                 </p>
                 <p className="text-lg text-gray-300">
-                  Professionelles Roleplay-Konzept für Cold Roleplay
+                  LSPD Konzept für Cold Roleplay
                 </p>
               </div>
             </div>
@@ -756,9 +756,18 @@ export default function LSPDWebsite() {
                   Training & Recruitment Division
                 </h3>
                 <p className="text-gray-300">
-                  Zuständig für Trainings, Aus- & Weiterbildungen sowie
-                  Bewerbungsgespräche. Führt auch spezielle Trainings für
-                  unsichere Beamte durch und koordiniert die Academy.
+                  Die Training & Recruitment Division ist für die Trainings,
+                  Aus- & Weiterbildungen sowie die Bewerbungsgespräche im LSPD
+                  zuständig. Sie dient nicht nur wie auf den meisten Servern
+                  dazu, die Prüfungen für Rankups zu absolvieren, sondern führt
+                  auch Trainings mit den Beamten durch. Das bedeutet, sollte ein
+                  Beamter sich in einer Sache wie zum Beispiel dem 10-80 callen
+                  unsicher sein, kann dieser auf die Training Division zugehen
+                  und ein Training absolvieren. Insgesamt wird die Training &
+                  Recruitment Division bei uns als eine Abteilung dargestellt
+                  die sich intern wie folgt aber aufteilen wird: Training;
+                  Ausbildungen, Weiterbildungen, Academy, Bewerbungsgespräche,
+                  Streifendienstüberprüfung
                 </p>
               </div>
 
@@ -767,9 +776,16 @@ export default function LSPDWebsite() {
                   Dienstaufsicht
                 </h3>
                 <p className="text-gray-300">
-                  Leitet den Streifendienst und koordiniert Einsätze. Stellt
-                  sicher, dass alle Beamte die Mindestqualitätsstandards
-                  erfüllen und führt Streifendienstüberprüfungen durch.
+                  Die Dienstaufsicht ist nicht zu verwechseln mit dem
+                  Beschwerdemanagement oder dem Detective Bureau. Sie leitet den
+                  Streifendienst und koordiniert diesen bei Einsätzen. Zudem ist
+                  die Dienstaufsicht dafür zuständig, dass jeder Beamte die
+                  entsprechenden Vorgaben erfüllt und die
+                  Mindestqualitätsstandards einhält. Beispielsweise führt diese
+                  gemeinsam mit der Training & Recruitment Division
+                  Streifendienstüberprüfungen durch und bewertet anhand dieser,
+                  ob der jeweilige Beamte gewisse Trainings braucht oder die
+                  Standards erfüllt werden.
                 </p>
               </div>
 
@@ -778,9 +794,9 @@ export default function LSPDWebsite() {
                   Beschwerdemanagement
                 </h3>
                 <p className="text-gray-300">
-                  Nimmt Beschwerden sowohl von der Bevölkerung als auch von
-                  eigenen Beamten gegenüber LSPD-Beamten auf und bearbeitet
-                  diese professionell.
+                  Das Beschwerdemanagement nimmt Beschwerden sowohl von der
+                  Bevölkerung als auch den eigenen Beamten ggü. Beamte des
+                  LSPD´s auf und bearbeitet diese.
                 </p>
               </div>
 
@@ -789,9 +805,12 @@ export default function LSPDWebsite() {
                   Traffic Control
                 </h3>
                 <p className="text-gray-300">
-                  Führt groß angelegte Checkpoints durch und ist für die
-                  Straßenüberwachung zuständig. Nutzt moderne Technologie für
-                  Verkehrsbeobachtung aus der Luft.
+                  Die Abteilung Traffic Control führt groß angelegte Checkpoints
+                  durch und ist im Allgemeinen mehr für die Straßenüberwachung
+                  zuständig. Je nach Features wird diese für das Blitzen oder
+                  für die Verkehrsbeobachtung aus der Luft mit der Helikopter
+                  Kamera (wenn Erfassung mit km/h Anzeige vorhanden wie auf
+                  Sibaui) zum Einsatz kommen.
                 </p>
               </div>
 
@@ -801,8 +820,8 @@ export default function LSPDWebsite() {
                 </h3>
                 <p className="text-gray-300">
                   Sollte ein SWAT vorhanden sein und dem LSPD die Leitung dafür
-                  gegeben werden, würde dies als feste Abteilung für
-                  Hochrisiko-Situationen dienen.
+                  gegeben werden, würde dies natürlich auch als feste Abteilung
+                  dazu zählen.
                 </p>
               </div>
             </div>
