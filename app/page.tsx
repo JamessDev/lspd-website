@@ -459,7 +459,7 @@ export default function LSPDWebsite() {
           <div className="w-px h-8 bg-gradient-to-b from-blue-400 to-purple-400"></div>
         </div>
 
-        {/* Deputy Chiefs */}
+        {/* Deputy Chiefs s*/}
         <div className="flex justify-center gap-12 mb-12">
           {leaders.slice(1, 3).map((leader, index) => (
             <div key={index} className="flex flex-col items-center">
